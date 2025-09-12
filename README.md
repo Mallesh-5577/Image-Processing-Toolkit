@@ -59,4 +59,5 @@ This project demonstrates how OpenCV, NumPy, and scikit-image can be combined wi
 
 ## 📦 Images
 
-1. 
+1. <img width="1365" height="654" alt="image" src="https://github.com/user-attachments/assets/2fba976f-1131-4084-a16e-c5a274449f7a" />
+
